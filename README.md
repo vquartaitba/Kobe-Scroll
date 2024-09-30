@@ -1,5 +1,3 @@
-##### Contract Deployed : https://sepolia.scrollscan.com/address/0x44aEC556a506cB62455A53fc125C1FF3Db7f2378
-
 ## Introduction
 Kobe is an innovative automated platform designed to simplify and accelerate the development, testing, and deployment of smart contracts. **For this hackathon, we have extended Kobe's functionality to support the Scroll ecosystem with the Alchemy API for deploying, allowing developers to leverage the unique features of Aptos within our platform.**  By leveraging advanced AI technologies, Kobe automates the entire lifecycle of smart contract creation, providing developers with an efficient, secure, and user-friendly experience. With its intuitive interface and comprehensive toolset, Kobe lowers technical barriers, shortens development times, and ensures easy access to updated documentation, empowering developers to build robust blockchain applications with ease.
 
@@ -42,3 +40,4 @@ Specialized Models: Kobe employs multiple AI models, each dedicated to functions
 ## Conclusión
 Kobe addresses critical challenges in smart contract development by providing an automated, efficient, and user-friendly platform. By lowering technical barriers, shortening development processes, and offering easy access to updated documentation, Kobe empowers developers to create secure and reliable smart contracts with ease. Compatible with Scroll, Kobe streamlines cross-chain development and accelerates the adoption of blockchain technology. Through its innovative approach and commitment to enhancing the developer experience, Kobe aims to redefine smart contract development and contribute significantly to the advancement of decentralized applications.
 
+#### Contract Deployed : https://sepolia.scrollscan.com/address/0x44aEC556a506cB62455A53fc125C1FF3Db7f2378
